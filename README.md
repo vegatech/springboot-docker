@@ -10,7 +10,7 @@
    
   - Ingresar a la carpeta proyecto "productos" y ejecutar:
 -  1-  .\mvnw clean package
-  2-  docker build -t servicio-productos:v1 .
+ - 2-  docker build -t servicio-productos:v1 .
   
    - Ingresar al la carpeta proyecto "precios" y ejecutar: 
 -  1.-  .\mvnw clean package
